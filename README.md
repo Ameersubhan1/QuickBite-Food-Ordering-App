@@ -70,19 +70,6 @@ The app is written in **Java** using **Android Studio**, with **Firebase** power
 
 ---
 
-## 📸 Screenshots
-
-| Login | Home | Menu |
-| :---: | :---: | :---: |
-| <img src="screenshots/login.png" width="200"/> | <img src="screenshots/home.png" width="200"/> | <img src="screenshots/menu.png" width="200"/> |
-
-| Checkout | Track Order | Profile |
-| :---: | :---: | :---: |
-| <img src="screenshots/checkout.png" width="200"/> | <img src="screenshots/track.png" width="200"/> | <img src="screenshots/profile.png" width="200"/> |
-
-> 💡 Create a `screenshots/` folder in the repo and add your images with the names above.
-
----
 
 ## 📂 Project Structure
 
