@@ -30,7 +30,7 @@ Browse restaurants, order your favourite meals, and track your delivery in real 
   Delete this comment once done.
 -->
 
-https://github.com/user-attachments/assets/PASTE-YOUR-VIDEO-LINK-HERE
+https://github.com/Ameersubhan1/QuickBite-Food-Ordering-App/blob/main/QuickBite(updated)/VIDEO-2026-10-15-18-51-56%20(1).mp4
 
 ---
 
